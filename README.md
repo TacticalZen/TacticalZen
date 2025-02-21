@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me IDK
 - 😄 Pronouns: IDK
-- ⚡ Fun fact: Kubirsonson gave me account on itch.io
+- ⚡ Fun fact: I'm in TacticalZen Games!
 
 <!---
 TacticalZen/TacticalZen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
