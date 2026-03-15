@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kitten
-- 👀 I’m interested in Making Games
-- 🌱 I’m currently learning C#, Batch, C++
+- 👀 I’m interested in Making Games and making OS.
+- 🌱 I’m currently learning no langauges.
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me IDK
 - 😄 Pronouns: IDK
